@@ -1,8 +1,8 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+import Home from './assets/components/Home'
 import './App.css'
 import Navbar from './assets/components/Navbar'
+import About from './assets/components/About'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -10,9 +10,9 @@ function App() {
   return (
     <>
      <Navbar />
-     <h1 class="text-3xl text-red font-bold underline">
-    Hello world!
-  </h1>
+     <Home />
+     <About />
+     
     </>
   )
 }
