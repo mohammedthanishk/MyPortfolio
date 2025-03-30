@@ -28,7 +28,7 @@ const Project = () => {
               </h3>
               <p className="mt-2  text-gray-200">{project.description}</p>
               <a
-                href="#"
+                href="https://calculator-phi-ten-93.vercel.app/"
                 className=" inline-block bg-gradient-to-r from green- to bg-purple-500 tect-white mt-2 px-5 py-4 rounded-full"
               >
                 see more

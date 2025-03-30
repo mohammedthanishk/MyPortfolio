@@ -38,7 +38,7 @@ const About = () => {
               Python
             </label>
             <div className="grow bg-gray-800 rounded-full h-2.5">
-              <div className="bg-gradient-to-l from-blue-500 to-purple-500 h-2.5 rounded-full transform tarnsition-tranform duration-300 hover:scale-105 w-7/12"></div>
+              <div className="bg-gradient-to-l from-blue-500 to-purple-500 h-2.5 rounded-full transform tarnsition-tranform duration-300 hover:scale-105 w-3/6"></div>
             </div>
           </div>
           <div className="flex items-center">
