@@ -38,7 +38,7 @@ const Contact = () => {
                     type="text"
                     className="w-full p-2 rounded bg-gray-800 border
                              border-x-gray-600 focus:outline-none focus:border-gray-300"
-                    placeholder="enter ypur name"
+                    placeholder="enter your name"
                   />
                 </div>
                 <div>
@@ -49,7 +49,7 @@ const Contact = () => {
                     type="text"
                     className="w-full p-2 rounded bg-gray-800 border
                              border-x-gray-600 focus:outline-none focus:border-gray-300"
-                    placeholder="enter ypur email"
+                    placeholder="enter your email"
                   />
                 </div>
                 <div>
@@ -60,7 +60,7 @@ const Contact = () => {
                     type="text"
                     className="w-full p-2 rounded bg-gray-800 border
                              border-x-gray-600 focus:outline-none focus:border-gray-300"
-                    placeholder="enter ypur message"
+                    placeholder="enter your message"
                     rows="5"
                   />
                 </div>
