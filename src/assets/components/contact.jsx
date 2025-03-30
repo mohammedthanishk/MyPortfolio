@@ -53,7 +53,7 @@ const Contact = () => {
                   />
                 </div>
                 <div>
-                  <label htmlFor="message" className="block mb-3">
+                  <label htmlFor="message" className="block pb-3">
                     Your message
                   </label>
                   <textarea

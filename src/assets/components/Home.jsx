@@ -29,7 +29,7 @@ const Home = () => {
           className="bg-clip-border bg-gradient-to-l from-blue-500 to-purple-500  md:inline transform tarnsition-tranform duration-300 hover:scale-105 px-4 py-2 rounded-full cursor-pointer"
         >
           <a href="#contact" className="hover:text-gray-400">
-            {" "}
+            
             contact me
           </a>
         </button>

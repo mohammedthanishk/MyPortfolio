@@ -18,7 +18,7 @@ const About = () => {
         </div>
         <div className="space-y-4">
           <div className="flex items-center">
-            <label htmlFor="htmlandcss" className="w-2/12">
+            <label htmlFor="htmlandcss" className="w-4/12 md:w-2/12">
               HTML & CSS
             </label>
             <div className="grow bg-gray-800 rounded-full h-2.5">
@@ -26,7 +26,7 @@ const About = () => {
             </div>
           </div>
           <div className="flex items-center">
-            <label htmlFor="Reactjs" className="w-2/12">
+            <label htmlFor="Reactjs" className="w-4/12 md:w-2/12">
               React Js
             </label>
             <div className="grow bg-gray-800 rounded-full h-2.5">
@@ -34,7 +34,7 @@ const About = () => {
             </div>
           </div>
           <div className="flex items-center">
-            <label htmlFor="htmlandcss" className="w-2/12">
+            <label htmlFor="htmlandcss" className=" w-4/12 md:w-2/12">
               Python
             </label>
             <div className="grow bg-gray-800 rounded-full h-2.5">
@@ -42,7 +42,7 @@ const About = () => {
             </div>
           </div>
           <div className="flex items-center">
-            <label htmlFor="htmlandcss" className="w-2/12">
+            <label htmlFor="htmlandcss" className="w-4/12 md:w-2/12">
               SQL
             </label>
             <div className="grow bg-gray-800 rounded-full h-2.5">
@@ -52,7 +52,7 @@ const About = () => {
         </div>
         <div className="mt-12 flex  justify-between text-start  md:text-center ">
           <div>
-            <h1 className="text-4xl font-serif font-bold mb-4">experience</h1>
+            <h1 className="text-2xl md:text-3xl lg:text-4xl font-serif font-bold mb-4">experience</h1>
             <h4 className="text-lg underline font-bold mb-4"> 
               Internship Synopsis – Manual Tester
             </h4>
