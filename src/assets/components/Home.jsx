@@ -9,7 +9,7 @@ const Home = () => {
       </h1>
       <p className="mt-4 text-lg text-gray-400 px-4 md:px-32">" Amateur web developer eager to learn and grow."</p>
       <div className=" mt-8 space-x-6">
-        <button className="bg-green-500  md:inline transform tarnsition-tranform duration-300 hover:scale-105 px-4 py-2 rounded-full cursor-pointer items-center mb" >Resume</button>
+        <button className="bg-green-500  md:inline transform tarnsition-tranform duration-300 hover:scale-105 px-4 py-2 rounded-full cursor-pointer items-center mb" ><a href="public/Resume - Mohammed Thanish.pdf" download="My_Resume.pdf">Download Resume</a></button>
         <button id="" className="bg-clip-border bg-gradient-to-l from-blue-500 to-purple-500  md:inline transform tarnsition-tranform duration-300 hover:scale-105 px-4 py-2 rounded-full cursor-pointer">Contact Me</button>
       </div>
     </div>
