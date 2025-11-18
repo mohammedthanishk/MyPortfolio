@@ -54,7 +54,7 @@ const About = () => {
           <div>
             <h1 className="text-2xl md:text-3xl lg:text-4xl font-serif font-bold mb-4">experience</h1>
             <h4 className="text-lg underline font-bold mb-4"> 
-              Internship Synopsis – Manual Tester
+              Internship Synopsis – Software Tester
             </h4>
             <p className="text-left text-lg">
               Company: Webronic Industries Private Limited. <br />
