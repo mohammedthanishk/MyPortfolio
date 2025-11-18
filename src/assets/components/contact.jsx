@@ -35,7 +35,6 @@ const Contact = () => {
     <div className="bg-black text-white py-20  font-serif" id="contact">
       <div className="container mx-auto px-b md:px-16 lg:px-24">
         <h2 className="text-center text-4xl font-bold">About Me</h2>
-        <div className="flex flex-col md:flex-row items-center md:space-x-12">
           <div className="flex-1 ">
             <h3>talk to me</h3>
             <div className="mb-4 mt-5">
@@ -57,7 +56,7 @@ const Contact = () => {
             </div>
             </div>
             
-          </div>
+          
         </div>
       </div>
     
