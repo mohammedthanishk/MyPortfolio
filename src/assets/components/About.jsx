@@ -7,13 +7,11 @@ const About = () => {
         <h2 className="text-center text-4xl font-bold">About Me</h2> <br />
         <div className="flex flex-col md:flex-row items-center md:space-x-12">
           <p className="text-lg mb-8">
-            I'm a web development student passionate about creating modern,
-            responsive websites. I started my journey in front-end development,
-            working with React and Vite, and I’m now exploring backend
-            technologies to become a full-stack developer. I love learning new
-            technologies, solving challenges, and building user-friendly digital
-            experiences. As I grow in my career, I'm excited to develop my
-            skills and contribute to real-world projects.
+          Aspiring software tester with strong theoretical knowledge of automation testing using Selenium and Java,
+          along with practical experience in manual testing. Well-acquainted with SDLC and STLC processes, including test planning, execution, defect tracking, and reporting.
+          Detail-oriented and analytical, with a keen eye for identifying issues and improving software quality.
+          Enthusiastic about learning new testing tools and methodologies, expanding automation skills, and contributing effectively to collaborative projects.
+          Committed to growing as a tester and delivering reliable, high-quality software in real-world environments.
           </p>
         </div>
         <div className="space-y-4">
@@ -22,31 +20,48 @@ const About = () => {
               HTML & CSS
             </label>
             <div className="grow bg-gray-800 rounded-full h-2.5">
-              <div className="bg-gradient-to-l from-blue-500 to-purple-500 h-2.5 rounded-full transform tarnsition-tranform duration-300 hover:scale-105 w-10/12"></div>
-            </div>
-          </div>
-          <div className="flex items-center">
-            <label htmlFor="Reactjs" className="w-4/12 md:w-2/12">
-              React Js
-            </label>
-            <div className="grow bg-gray-800 rounded-full h-2.5">
-              <div className="bg-gradient-to-l from-blue-500 to-purple-500 h-2.5 rounded-full transform tarnsition-tranform duration-300 hover:scale-105 w-8/12"></div>
-            </div>
-          </div>
-          <div className="flex items-center">
-            <label htmlFor="htmlandcss" className=" w-4/12 md:w-2/12">
-              Python
-            </label>
-            <div className="grow bg-gray-800 rounded-full h-2.5">
               <div className="bg-gradient-to-l from-blue-500 to-purple-500 h-2.5 rounded-full transform tarnsition-tranform duration-300 hover:scale-105 w-3/6"></div>
             </div>
           </div>
           <div className="flex items-center">
-            <label htmlFor="htmlandcss" className="w-4/12 md:w-2/12">
-              SQL
+            <label htmlFor="Reactjs" className="w-4/12 md:w-2/12">
+              Java
+            </label>
+            <div className="grow bg-gray-800 rounded-full h-2.5">
+              <div className="bg-gradient-to-l from-blue-500 to-purple-500 h-2.5 rounded-full transform tarnsition-tranform duration-300 hover:scale-105 w-9/12"></div>
+            </div>
+          </div>
+          <div className="flex items-center">
+            <label htmlFor="Selenium" className=" w-4/12 md:w-2/12">
+              Selenium
+            </label>
+            <div className="grow bg-gray-800 rounded-full h-2.5">
+              <div className="bg-gradient-to-l from-blue-500 to-purple-500 h-2.5 rounded-full transform tarnsition-tranform duration-300 hover:scale-105 w-4/6"></div>
+            </div>
+          </div>
+          <div className="flex items-center">
+            <label htmlFor="TestNG" className=" w-4/12 md:w-2/12">
+            TestNG
             </label>
             <div className="grow bg-gray-800 rounded-full h-2.5">
               <div className="bg-gradient-to-l from-blue-500 to-purple-500 h-2.5 rounded-full transform tarnsition-tranform duration-300 hover:scale-105 w-7/12"></div>
+            </div>
+          </div>
+          <div className="flex items-center">
+            <label htmlFor="TestNG" className=" w-4/12 md:w-2/12">
+            Cucumber
+            </label>
+            <div className="grow bg-gray-800 rounded-full h-2.5">
+              <div className="bg-gradient-to-l from-blue-500 to-purple-500 h-2.5 rounded-full transform tarnsition-tranform duration-300 hover:scale-105 w-6/12"></div>
+            </div>
+          </div>
+          
+          <div className="flex items-center">
+            <label htmlFor="SQL" className="w-4/12 md:w-2/12">
+            SQL
+            </label>
+            <div className="grow bg-gray-800 rounded-full h-2.5">
+              <div className="bg-gradient-to-l from-blue-500 to-purple-500 h-2.5 rounded-full transform tarnsition-tranform duration-300 hover:scale-105 w-6/12"></div>
             </div>
           </div>
         </div>
